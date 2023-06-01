@@ -1,2 +1,2 @@
 # stablediff-image-generation
-dataset generation w stable diffusion v1.5
+dataset generation with stable diffusion v1.5 using VALSE dataset caption and foils
